@@ -2,16 +2,19 @@
 
 Curated list of blockchain and general cryptocurrency resources
 
-# Contents
+# Table of Contents
 
-##Blockchain
 - [Blockchain Books](#blockchain-books)
-- [Blockchain White Papers](#blockchain-white-papers)
+- [White Papers](#white-papers)
 - [Bitcoin Books](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-- [Videos](#videos)
+- [Infographics](#infographics)
+- [Talks](#talks)
 - [Youtube Channels](#youtube-channels)
-- [Companies](#companies)
+- [Courses](#courses)
+- [Documentaries](#documentaries)
+- [Blockchain Art](#blockchain-art)
+- [Explorers](#explorers)
 
 
 ###Blockchain Books
@@ -39,7 +42,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain: Easiest Ultimate Guide To Understand Blockchain](https://www.amazon.com/Blockchain-Understand-Programming-Contracts-Revolution/dp/1537533371/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1537533371&pd_rd_r=904DCPSY2QZX2VM23XQD&pd_rd_w=3oCFL&pd_rd_wg=jJFBs&psc=1&refRID=904DCPSY2QZX2VM23XQD) - Jared Norton 
 
 
-###Blockchain White papers
+###White papers
 * [Banking in a world of programmable assets](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf) - Accenture
 * [Blockchain: practical implications of a revolutionary technology for financial markets and beyond](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/)  - DLA Piper
 * [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) -  The European Central Bank
@@ -47,14 +50,20 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute 
 * [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
 * [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
-
+* [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda 
+* [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
+* [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
+* [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
+* [Bitcoin Primer](http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf) - Macro Risk Advisors
+* [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
+* [Bitcoin](http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
 
 ###Bitcoin 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
 * [Digital Gold: The Untold Story of Bitcoin](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0062362496&pd_rd_r=D7KMJCP493PPH9ADVPCR&pd_rd_w=g5Hrb&pd_rd_wg=KsfK5&psc=1&refRID=D7KMJCP493PPH9ADVPCR) -  Nathaniel Popper
 * [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Paul Vigna and Michael J. Casey
 * [Bitcoin The Future of Money](https://www.amazon.com/Bitcoin-future-money-Dominic-Frisby/dp/1783521023/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=1783521023&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Dominic Frisby
-* [Wildcat Currency](Wildcat Currency: How the Virtual Money Revolution Is Transforming the Economy) - Edward Castronova
+* [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 * [The Bitcoin Bible](https://www.amazon.com/Bitcoin-Bible-Gold-Benjamin-Guttmann/dp/3732296962/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=3732296962&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Benjamin Guttmann
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [The Book of Satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0996061312&pd_rd_r=9QB4ZB20S6CY4NGE029X&pd_rd_w=2TjP2&pd_rd_wg=VjLqC&psc=1&refRID=9QB4ZB20S6CY4NGE029X) - Paul Champagne
@@ -82,7 +91,9 @@ Curated list of blockchain and general cryptocurrency resources
 * [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=1119019168&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Pedro Franco
 
 ###Ethereum and Smart Contracts
-
+* [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/) - Ethereum
+* [Ethereum Builder's Guide](https://www.gitbook.com/book/ethereumbuilders/guide/details) - Ethereum
+* [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Investing in Ethereum: The Ultimate Guide to Learning and Profiting from--Cryptocurrencies](https://www.amazon.com/Investing-Ethereum-Learning-Profiting-Cryptocurrencies/dp/153530281X/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=153530281X&pd_rd_r=EH8VPZEJ5BMM540BQEZW&pd_rd_w=CywQ3&pd_rd_wg=p4U9s&psc=1&refRID=EH8VPZEJ5BMM540BQEZW) - Oscar Flynt
 * [Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment](https://www.amazon.com/Ethereum-everything-investment-Blockchain-Cryptocurrency-ebook/dp/B01IC6NT8S/ref=sr_1_1?ie=UTF8&qid=1476984793&sr=8-1&keywords=Ethereum%3A+A+look+into+the+world+of+Ethereum+and+everything+you+need+to+know+about+it%27s+trade+and+investment%21) - Ben Abner
 * [Smart Contracts: How to Use Blockchain Smart Contracts for Cryptocurrency Exchange](https://www.amazon.com/Smart-Contracts-Blockchain-Cryptocurrency-Exchange-ebook/dp/B01IQJM53Q/ref=sr_1_1?ie=UTF8&qid=1476984876&sr=8-1&keywords=Smart+Contracts%3A+How+to+Use+Blockchain) - Oscar Flynt
@@ -96,11 +107,20 @@ Curated list of blockchain and general cryptocurrency resources
 * [FinTech: Financial Technology and Modern Finance in the 21st Century](https://www.amazon.com/FinTech-Financial-Technology-Blockchain-Contracts-ebook/dp/B01MEFL03W/ref=sr_1_1?ie=UTF8&qid=1476985691&sr=8-1&keywords=FinTech%3A+Financial+Technology+and+Modern+Finance+in+the+21st+Century) - Jeff Reed
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 
+###Infographics
+- [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
+- [Bitcoin's History2008-2014](https://i.imgur.com/kVF3kFu.png)
 
-###Videos
-* [Rise of bitcoin (2min)](https://vimeo.com/110874487)
+###Talks
+* [The Future of Bitcoin: New Applications and Rebuilding the banking system: (28min)](https://www.youtube.com/watch?v=mD4L7xDNCmA) - Mike Hearn
 * [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
 * [Stopping War: (1 min)](https://www.youtube.com/watch?v=eyU3TgQqtV8)
+* [Bitcoin. Sweat. Tide. Meet the future of branded currency.(11min)](https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en) - Paul Kemp-Robertson
+* [Bitcoin Is Exciting Because It's Cheap](https://www.youtube.com/watch?t=26&v=DyAufA2lWn0) - Bill Gates
+* [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
+* [Testimony for the Australian Senate Commitee on Economics References(36min)](https://www.youtube.com/watch?v=XotOwt8bTeI&feature=youtu.be)
+* [How Cryptocurrencies Can Succeed: the Stripe Perspective(20min)](https://www.youtube.com/watch?v=6qZwl7mukZ8) - Greg Brockman
+* [Everything You Need to Know About Bitcoin](https://www.youtube.com/watch?v=SNssKmeXrGs) - Reihan Salams
 * [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 * [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
@@ -110,11 +130,10 @@ Curated list of blockchain and general cryptocurrency resources
 * [Convergex Group, Nick Colas (3min):](https://www.youtube.com/watch?v=CdVVECKKSXo)
 * [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
 * [Defining bitcoin ownership, 2 min](https://www.youtube.com/watch?v=TANjGSo16Uk)
-* [TEDx, Distributing Power & Trust, Eric Spano (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww)
+* [TEDx, Distributing Power & Trust (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww) -  Eric Spano
 * [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
-* [Morgan Spurlock Inside Bitcoin (40 min)]( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
-* [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)] (https://www.youtube.com/watch?v=cOubCHLXT6A)
-* [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)] (https://www.youtube.com/watch?v=7-vYEsfsa30)
+* [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
+* [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
 * [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
 
 ###Youtube Channels
@@ -124,10 +143,10 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
-* [Bruce Fenton First Mover,](https://www.youtube.com/user/BruceFenton/videos)
+* [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
-* [decentral.tv](https://www.youtube.com/user/decentralTV/videos)
+* [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
 * [Ethereum Project](https://www.youtube.com/user/ethereumproject)
@@ -137,14 +156,28 @@ Curated list of blockchain and general cryptocurrency resources
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
-* [UNIVERSITY OF NICOSIA MSc in Digital](https://www.youtube.com/user/MScDigitalCurrency/videos)
+* [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 
-###Companies
+###Courses
+* [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
+* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
+* [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
+* [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
+*
 
-###Art 
+###Documentaries
+* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
+* [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
+* [The Bitcoin Doco](https://vimeo.com/112223859)
+* [Inside Man with Morgan Spurlock ](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
+
+
+
+###Blockchain Art
  * [Artlery](https://artlery.com)
  * [Ascribe](https://www.ascribe.io)
  * [Blockai](https://blockai.com)
@@ -154,3 +187,14 @@ Curated list of blockchain and general cryptocurrency resources
  * [Monegraph](https://monegraph.com)
  * [Verisart](https://www.verisart.com)
  * [Bitmark](https://bitmark.com)
+
+###Explorers
+* [Block Explorer](http://chainflyer.bitflyer.jp)
+* [Ether.Camp](http://frontier.ether.camp/)
+* [Etherscan](https://etherscan.io/)
+* [EtherChain](https://etherchain.org/)
+* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
+* [Ethereum Network Stats](https://stats.ethdev.com/)
+* [Tradeblock](https://tradeblock.com/markets)
+* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
+* [Size of the Network](https://getaddr.bitnodes.io/)
